@@ -1,3 +1,5 @@
+# Funcionamientos:
+ Realizar validaciones de fecha (si es mayor de edad), etc, por JS.
 
 ## Valores requeridos para diferentes tipos de type
 <input name="name" id="name" class="input" type="text" placeholder="Nombre" required>
@@ -13,3 +15,6 @@ type="password" placeholder="Contraseña" required pattern="^(?=.*[a-z])(?=.*[A-
 
 ## Mensaje de erro al ingresar calores no validos
 input.setCustomValidity(mensaje);                     // Mensaje de error al ingresar una fecha no valida
+
+## Más sobre regex
+https://regexr.com/
