@@ -18,3 +18,22 @@ input.setCustomValidity(mensaje);                     // Mensaje de error al ing
 
 ## Más sobre regex
 https://regexr.com/
+
+
+## Uilizar live server
+O sino da un error de cors
+
+
+## Para utilizar url de github
+
+Entrar a settings, pages. Seleccionamos la rama a tomar.
+(Nota: quitar los "_" para que funcione los estilos de css)
+
+## Para utilizar vercel:
+Entrar a vercel
+Logearse con githun
+Seleccionar el proyecto
+create team... skip
+framework preset...other
+build and output setting...desactivar cada opcion
+Deploy
